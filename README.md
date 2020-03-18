@@ -10,23 +10,23 @@
 
 4. On the left bar click on _DNS & Nameservers_ as shown below
 
-   ![](img/dns_and_nameservers.png)
+   ![](img/dns_and_nameservers.PNG)
 
 5. Modify the existing DNS record of type _**A**_ and name _**@**_ and change its content from _**66.96.xxx.xxx**_ to _**185.199.108.153**_ which is github's IP address. This should look like this
 
-   ![](img/dns_record_1.png)
+   ![](img/dns_record_1.PNG)
 
 6. Add three more DNS records of type _**A**_ and name _**@**_ with content _**185.199.109.153**_, _**185.199.110.153**_, _**185.199.111.153**_ respectively.
 
-   ![](img/dns_record_2.png)
+   ![](img/dns_record_2.PNG)
 
 7. Add a DNS record of type _**CNAME**_ and name _**www**_ with content _**ioanniskaragiannis.github.io.**_
 
-   ![](img/dns_record_3.png)
+   ![](img/dns_record_3.PNG)
 
 8. On the root directory of the current repo go to _Settings_, scroll down and setup your custom domain as shown below. For the change to take effect it may take a few hours or even a day. Be patient. You are all set.
 
-   ![](img/github_pages.png)
+   ![](img/github_pages.PNG)
 
 9. Confirm that you have set your custom domain successfully. 
 
