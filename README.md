@@ -2,7 +2,7 @@
 
 1. Take a quick scan at this [page](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a) .
 
-2. Login to your [domain](www.domain.com) services.
+2. Login to your [domain](https://www.domain.com) services.
 
 3. Click _Manage_
 
