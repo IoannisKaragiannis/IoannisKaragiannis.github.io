@@ -6,7 +6,7 @@
 
 3. Click _Manage_
 
-   ![](img/domain_manage.png)
+   ![](img/domain_manage.PNG)
 
 4. On the left bar click on _DNS & Nameservers_ as shown below
 
